@@ -4,7 +4,7 @@ Advanced Web Design & Development – Assignment #2
 Institut d’Enseignement Supérieur de Ruhengeri (INES)  
 Faculty of Sciences and Information Technology  
 
----
+
 
 ## 📌 Project Description
 
@@ -75,15 +75,15 @@ Deployment Steps:
 
 ## 👥 Group Members & Roles
 
-| Name | Role |
-|------|------|
-| Member 1 | Planning & Documentation |
-| Member 2 | UI/UX Design |
-| Member 3 | HTML Structure |
-| Member 4 | CSS & Responsiveness |
-| Member 5 | JavaScript |
-| Member 6 | Backend MVC |
-| Member 7 | Database, Git & Deployment |
+| Name     |        Role            |
+|-----------------------------------|
+| Member 1 | Planning & Documentation 
+| Member 2 | UI/UX Design 
+| Member 3 | HTML Structure 
+| Member 4 | CSS & Responsiveness 
+| Member 5 | JavaScript 
+| Member 6 | Backend MVC 
+| Member 7 | Database, Git & Deployment 
 
 ---
 
