@@ -13,7 +13,7 @@
 - QR code scanning
 - SMS/email notifications
 
----
+
 
 # Non-Functional Requirements
 
