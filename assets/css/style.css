@@ -46,6 +46,9 @@ nav a:active {
     border-radius: 6px;
     margin-bottom: 20px;
 }
+.card1 h2{
+    color:darkmagenta;
+}
 
 button {
     background: #0056b3;
