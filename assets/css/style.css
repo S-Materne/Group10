@@ -40,6 +40,12 @@ nav a:active {
     border-radius: 6px;
     margin-bottom: 20px;
 }
+.card1 {
+    background:gold;
+    padding: 20px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
 
 button {
     background: #0056b3;

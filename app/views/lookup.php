@@ -2,7 +2,7 @@
 <?php include "partials/nav.php"; ?>
 
 <div class="container">
-    <div class="card">
+    <div class="card1">
         <h2>Lookup Ticket</h2>
 
         <form method="GET" action="">
