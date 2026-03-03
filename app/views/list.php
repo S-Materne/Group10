@@ -5,7 +5,7 @@
     <div class="card">
         <h2>All Tickets</h2>
 
-        <table border="1" width="100%" cellpadding="10">
+        <table class="tab" border="1" width="100%" cellpadding="10">
             <tr>
                 <th>ID</th>
                 <th>Name</th>

@@ -11,6 +11,10 @@ body {
     padding: 20px;
 }
 
+.tab {
+    background-color: whitesmoke;
+}
+
 nav {
     background: #002147;
     padding: 15px;
