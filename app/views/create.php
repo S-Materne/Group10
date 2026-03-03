@@ -10,10 +10,10 @@
             <label>Full Name</label>
             <input type="text" name="full_name" required>
 
-            <label>Email</label>
+           <br><br><label>Email</label>
             <input type="email" name="email" required>
 
-            <label>Phone</label>
+            <br><br><label>Phone</label>
             <input type="text" name="phone" required>
 
             <br><br>
