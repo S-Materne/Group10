@@ -1,0 +1,24 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("form");
+
+    if(form){
+        form.addEventListener("submit", function(e){
+            const inputs = form.querySelectorAll("input[required]");
+            let valid = true;
+
+            inputs.forEach(input => {
+                if(input.value.trim() === ""){
+                    valid = false;
+                    input.style.border = "1px solid red";
+                }
+            });
+
+            if(!valid){
+                e.preventDefault();
+                alert("Please fill all required fields.");
+            }
+        });
+    }
+});
+
+
